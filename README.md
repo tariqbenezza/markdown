@@ -2,7 +2,7 @@
 
 Welcome to my first react js project
 
-It's a tiny project who help users to have a quick preview of their markdown texts :
+It's a tiny project which help users to have a quick preview of their markdown texts :
 
 ![capture of the project](https://raw.githubusercontent.com/tariqbenezza/markdown/master/capture.png)
 
