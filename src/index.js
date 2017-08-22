@@ -31,7 +31,7 @@ class App extends React.Component{
 	};
 
 	renderText=(text)=>{
-		const renderText = marked(text, {sanitize:true});
+		const renderText = marked(text, {sanitize:false});
 		return {__html:renderText};
 	};
 
