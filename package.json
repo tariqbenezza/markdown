@@ -1,4 +1,5 @@
 {
+  "engines" : { "node" : ">=6.0.0" },
   "name": "markdown",
   "version": "0.1.0",
   "private": true,
